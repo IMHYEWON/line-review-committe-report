@@ -12,7 +12,7 @@ Review Committe는 머지된 코드를 다시 한 번 리뷰하면서 리뷰어�
 ```
 
 ## 참고 자료
-- [코드 품질 개선 기법 시리즈 소개] (https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-list)
+- [코드 품질 개선 기법 시리즈 소개](https://techblog.lycorp.co.jp/ko/techniques-for-improving-code-quality-list)
 - [DroidKaigi 2021 발표: 오래가는 코드 베이스의 '품질' 문제를 마주하다](https://droidkaigi.jp/2021/talks/123) (일본어)
 - LINE Engineering Blog의 '코드 품질 개선 기법' 시리즈
 
